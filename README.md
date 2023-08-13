@@ -6,4 +6,4 @@
 - IBM Watson Assistant
 
 # Deployed On
-- GitHub Pages
+- Vercel
