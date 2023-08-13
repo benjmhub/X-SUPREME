@@ -3,7 +3,7 @@
 
 # Concepts Used
 - Bootstrap
-- IBM Watson Assistant
+- Chatbase AI assistant
 
 # Deployed On
 - Vercel
